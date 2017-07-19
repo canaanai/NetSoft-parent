@@ -1,0 +1,3 @@
+include ':app', ':netsoft-annotations', ':netsoft-compiler', ':netsoft'
+
+rootProject.name = 'NetSoft-parent'
